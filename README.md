@@ -1,14 +1,7 @@
 
 # Feedback Collection Platform
 
-**Created for AYNA FULL STACK INTERN ASSIGNMENT**
-
 **A modern MERN stack app for creating, sharing, and analyzing feedback forms. Admins build forms, users submit responses via public links, and results are shown in a dashboard.**
-
----
-**Author:** Nayan Mandal  
-**Edu Email:** bt22csd035@iiitn.ac.in  
-**Personal Email:** nayan.iiitn@gmail.com
 
 ## How to Run Locally
 
